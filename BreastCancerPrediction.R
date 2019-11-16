@@ -112,7 +112,6 @@ CrossTable(x = dados_teste_labels, y = modelo_knn_v1, prop.chisq = FALSE)
 
 # Model performance: 98% (hit 98 out of 100)
 
-
 ## Step 5: Optimizing Model Performance
 
 # Using scale() function to standardize z-score
@@ -126,7 +125,6 @@ dados_treino <- dados_z[1:469, ]
 dados_teste <- dados_z[470:569, ]
 dados_treino_labels <- dados[ 1:469, 1]
 dados_teste_labels <- dados[ 470:569, 1]
-
 
 # Reclassifying
 modelo_knn_v2 <- knn(train = dados_treino,
@@ -194,7 +192,6 @@ mean(pred_test == testset$diagnosis)
 
 # Confusion Matrix
 table(pred_test, testset$diagnosis)
-
 
 ## Step 7: Building a model with Random Forest Algorithm
 
