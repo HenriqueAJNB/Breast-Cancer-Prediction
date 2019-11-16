@@ -1,3 +1,31 @@
+# Predicting Breast Cancer
+
+The objective of this project is to predict the existence of breast cancer through predictive classificatory models (KNN, SVM, Randon Forest) using R language.
+
+The data set used can be found in the UCI Machine Learning Repository:
+
+http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+
+The values in the dataset above are measured from a scanned image of a breast mass. They describe characteristics of the cell nuclei present in those images.
+
+The project structuring follows the steps:
+
+1 - Data Collection
+
+2 - Data preprocessing
+
+3 - KNN Model Training
+
+4 - Evaluating and interpreting the model
+
+5 - Optimizing model performance
+
+6 - Building a Model with Support Vector Machine (SVM) Algorithm
+
+7 - Building a model with Random Forest algorithm
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 # Prevendo a ocorrência de câncer de mama
 
 O objetivo deste projeto é prever a existência de câncer de mamas através de modelos preditivos classificatórios (KNN, SVM, Randon Forest) utilizando linguagem R. 
