@@ -1,6 +1,6 @@
 # Predicting Breast Cancer
 
-The objective of this project is to predict the existence of breast cancer through predictive classificatory models (KNN, SVM, Randon Forest) using R language.
+The objective of this project is to predict the existence of breast cancer through predictive classificatory models (k-NN, SVM, Random Forest) using R language.
 
 The data set used can be found in the UCI Machine Learning Repository:
 
@@ -28,7 +28,7 @@ The project structuring follows the steps:
 
 # Prevendo a ocorrência de câncer de mama
 
-O objetivo deste projeto é prever a existência de câncer de mamas através de modelos preditivos classificatórios (KNN, SVM, Randon Forest) utilizando linguagem R. 
+O objetivo deste projeto é prever a existência de câncer de mamas através de modelos preditivos classificatórios (k-NN, SVM, Random Forest) utilizando linguagem R. 
 
 O conjunto de dados utilizados pode ser encontrado no UCI Machine Learning Repository:
 
